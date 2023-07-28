@@ -3,6 +3,6 @@ I have created a Java Project entitled 'Hotel Management System'. It is a hotel 
 
 Main objective of this project isto provide solution for hotel to manage most there work using computerized process.
 
-Technologies Used: Core Java (Swing & AWT)
-Database Used: MySQL
+Technologies Used: Core Java (Swing & AWT),
+Database Used: MySQL,
 IDE used: Netbeans
